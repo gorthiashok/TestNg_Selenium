@@ -1,0 +1,11 @@
+
+Used Jars
+TestNg
+selemiun 
+
+How to run
+
+Download TestNg jar and selenium and run SeleniumWikiPage.java file
+
+run as TestNg Class
+
